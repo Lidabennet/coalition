@@ -26,7 +26,7 @@
     </div>
 
     <div class="col-md-2">
-        <button class="btn btn-primary w-100" type="submit">Save</button>
+        <button class="btn btn-primary w-100" type="submit">Submit</button>
     </div>
 </form>
 
@@ -44,7 +44,7 @@
     <tbody id="tableBody"></tbody>
     <tfoot>
         <tr>
-            <th colspan="4">Grand Total</th>
+            <th colspan="4">Total sum</th>
             <th id="grandTotal"></th>
             <th></th>
         </tr>
