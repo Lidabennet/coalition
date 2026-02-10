@@ -13,11 +13,11 @@
 
 
 
+
 Route::get('/', 'ProductController@index');
 Route::get('/products', 'ProductController@getProducts');
 Route::post('/products', 'ProductController@store');
 Route::post('/products/{id}', 'ProductController@update');
-
 
 
 
